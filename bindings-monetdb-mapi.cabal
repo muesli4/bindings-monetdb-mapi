@@ -16,7 +16,7 @@ library
   exposed-modules:     Bindings.MonetDB.Mapi
   -- other-modules:       
   -- other-extensions:    
-  pkgconfig-depends:   monetdb-mapi == 11.21.*
+  pkgconfig-depends:   monetdb-mapi == 11.*
   build-depends:       base >=4.8 && <4.10
   hs-source-dirs:      src
   default-language:    Haskell2010
