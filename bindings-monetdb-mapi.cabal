@@ -12,6 +12,10 @@ build-type:          Simple
 extra-source-files:  ChangeLog.md
 cabal-version:       >=1.10
 
+source-repository head
+  type:              git
+  location:          git://github.com/muesli4/bindings-monetdb-mapi.git
+
 library
   exposed-modules:     Bindings.MonetDB.Mapi
   -- other-modules:       
