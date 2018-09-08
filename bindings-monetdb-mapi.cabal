@@ -1,7 +1,7 @@
 name:                bindings-monetdb-mapi
 version:             0.1.0.1
 synopsis:            Low-level bindings for the MonetDB API (mapi)
--- description:         
+description:         This library only provides FFI bindings to the most basic functions. Feel free to create a pull request in case you need something.
 license:             BSD3
 license-file:        LICENSE
 author:              Moritz Bruder
